@@ -1,0 +1,607 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_debug_queries\tmodule"
+			],
+			[
+				"q",
+				"q"
+			],
+			[
+				"toke",
+				"token_reset\tstatement"
+			],
+			[
+				"tok",
+				"token_reset\tstatement"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"ge",
+				"get403or404md\tfunction"
+			],
+			[
+				"attr",
+				"attr_fn\tstatement"
+			],
+			[
+				"sorted",
+				"sorted_wikis\tstatement"
+			],
+			[
+				"clas",
+				"classmethod\tclass"
+			],
+			[
+				"curre",
+				"current_user\tmodule"
+			],
+			[
+				"sorte",
+				"sorted_wikis\tstatement"
+			],
+			[
+				"publi",
+				"public_wiki_path\tstatement"
+			],
+			[
+				"pa",
+				"path_\tstatement"
+			],
+			[
+				"__ne",
+				"__next__\tfunction"
+			],
+			[
+				"cl",
+				"classmethod\tclass"
+			],
+			[
+				"User",
+				"UserMixin\tclass"
+			],
+			[
+				"mix",
+				"UserMixin\tclass"
+			],
+			[
+				"log",
+				"login_manager\tstatement"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"seer",
+				"server_config"
+			],
+			[
+				"s",
+				"subject\tparam"
+			],
+			[
+				"db",
+				"dbpath\tstatement"
+			],
+			[
+				"user",
+				"user_manager\tmodule"
+			],
+			[
+				"Us",
+				"UserMixin\tmodule"
+			],
+			[
+				"F",
+				"FileNotFoundError\tclass"
+			],
+			[
+				"login",
+				"LoginManager\tclass"
+			],
+			[
+				"dt",
+				"dtObject\tmodule"
+			],
+			[
+				"winners",
+				"winners_first_win_ts"
+			],
+			[
+				"_FOR",
+				"_TIME_FORMAT\tstatement"
+			],
+			[
+				"simula",
+				"simulation_settings\tstatement"
+			],
+			[
+				"sim",
+				"simulation_settings\tstatement"
+			],
+			[
+				"multi",
+				"multivoting\tstatement"
+			],
+			[
+				"a_valid",
+				"a_valid_invalid_multivote\tstatement"
+			],
+			[
+				"valid_",
+				"valid_invalid_multivote"
+			],
+			[
+				"a_val",
+				"a_valid_multivote\tstatement"
+			],
+			[
+				"uni",
+				"unique_poll_ids\tstatement"
+			],
+			[
+				"i",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"surve",
+				"survey_name"
+			],
+			[
+				"UNI",
+				"UNIQUE_CODES_UPPER"
+			],
+			[
+				"ran",
+				"random_keys"
+			],
+			[
+				"ups",
+				"updateTagsWithPaths"
+			],
+			[
+				"getTa",
+				"getTagsContentFile"
+			],
+			[
+				"indi",
+				"indicized_paths_file"
+			],
+			[
+				"KDB",
+				"KDB_REPO_NAME"
+			],
+			[
+				"displa",
+				"display_mgmt"
+			],
+			[
+				"wildc",
+				"wildcard_all"
+			],
+			[
+				"ve",
+				"view_mode"
+			],
+			[
+				"vie",
+				"view_mode"
+			],
+			[
+				"curren",
+				"current_user_roles"
+			],
+			[
+				"disp",
+				"display"
+			],
+			[
+				"displays",
+				"displays"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: u",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"y",
+				"Set Syntax: YAML"
+			],
+			[
+				"jinj",
+				"Set Syntax: HTML (Jinja2)"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"ana",
+				"Anaconda: Find object usage"
+			],
+			[
+				"install pa\t",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/ab-www",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/ab-www/css",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/ab-www/scss",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/ab-www/vendor"
+	],
+	"file_history":
+	[
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/ab-www/scss/_navbar.scss",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/ab-www/css/ab.css",
+		"/C/Users/feder/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/feder/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.cache/01524fae79697630d0454ba3fabd9414",
+		"/C/Users/feder/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.cache/01524fae79697630d0454ba3fabd9414.info",
+		"/C/Users/feder/AppData/Local/Temp/Temp1_startbootstrap-creative-master.zip/startbootstrap-creative-master/.gitignore",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/ab-www/.gitignore",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/static/css/styles.css",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/templates/layout_bootstrapped.html",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/templates/search.html",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/models/basic_models.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/templates/wiki.html",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/etc/commands.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/wikis/pvt/intranet/home/pvt-test.pdf",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/views/home.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/flask_login/customized.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/etc/app_ctx_rc.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/wikis/pub/home/wiki.md",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/wikis/pub/home/test-file.txt",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/factory.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/wikis/pub/403_404.md",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/.gitignore",
+		"/C/Users/feder/Downloads/pvt-test.pdf",
+		"/C/Users/feder/Downloads/test-file.txt",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/requirements.txt",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/strusi/sales_and_promo/instant-win-cooperative/requirements.txt",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/strusi/sales_and_promo/instant-win-cooperative/instant_win_srv/views/keys_list_time_relative.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/strusi/sales_and_promo/instant_win/instant_win_srv/instant_win_srv.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/wikis/pvt/intranet/home/_attr.yml",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/wikis/pub/home/_attr.yml",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/wikis/pub/home/_description.txt",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/wikis/pvt/intranet/home/_description.txt",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/templates/home.html",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/templates/email/confirm_login.html",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/templates/email/confirm_login__text.html",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/templates/login.html",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/instance/config.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/etc/rc.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/etc/token.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/etc/token_impl.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/etc/email_impl.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/templates/login__confirmation_sent.html",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/templates/please_confirm_email.html",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/etc/models.py",
+		"/C/Users/feder/Desktop/TODOS.txt",
+		"/E/buffer/geo-tests/config.py",
+		"/E/buffer/geo-tests/dbdmp.py",
+		"/E/buffer/geo-tests/dbmerge.py",
+		"/E/buffer/geo-tests/pattern.txt",
+		"/E/buffer/geo-tests/final/ee.json",
+		"/E/buffer/geo-tests/d/ee_1000_123.json",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/flask_login/_compat.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/etc/email.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/instance/server_config.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/instance/server_config",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/etc/token_implementation.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/gitted_instance/config-test.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/libs/__init__.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/gitted_instance/config-prod.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/README.md",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/factory.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/shell.cmd",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/etc/commands.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/models/accessing.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/etc/__init__.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/migrations/README",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/git.submodule.remove.txt",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/.gitmodules",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask_login/flask_login/__init__.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/flask_login/flask_login/__init__.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/migrations/alembic.ini",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/storage/db/sqlite.db",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/flask_login/__init__.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/flask_login/.gitignore",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/.gitignore",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/config-prod.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/config-test.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/.git/config",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask_login/.git/COMMIT_EDITMSG",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask_login/__init__.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/views/home.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/flask-kickstart/templates/home.html",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/strusi/sales_and_promo/instant-win-cooperative/instant_win_srv/templates/keys_list_time_relative/index.html",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/strusi/sales_and_promo/instant-win-cooperative/instant_win_srv/views/home.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/static/js/main.js",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/strusi/sales_and_promo/instant-win-cooperative/instant_win_srv/__init__.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/mdwebapp/requirements.txt",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/.git/COMMIT_EDITMSG",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/wikis/pvt/admin/home/wiki.md",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/wikis/pvt/staff/opportunities/wiki.md",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/wikis/pvt/intranet/home/wiki.md",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/wikis/pvt/staff/home/wiki.md",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/wiki-factory/README.md",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/wiki-factory/staff/README.md",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/wiki-factory/intranet/README.md",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/Repositories/cpwiki/wikis/pvt/admin__home.md",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/strusi/sales_and_promo/instant-win-cooperative/instant_win/tests/simulations.py",
+		"/C/Users/feder/OneDrive/Lavoro/Dev/strusi/sales_and_promo/instant-win-cooperative/instant_win/KeysListTimeRelative.py",
+		"/C/Users/feder/Downloads/jumbotron.html",
+		"/C/Users/feder/Downloads/card.html",
+		"/C/Users/feder/Downloads/simple-table.html",
+		"/C/Users/feder/Downloads/navbar-all-items.html",
+		"/C/Users/feder/Downloads/breadcrumb.html",
+		"/C/Users/feder/Downloads/navbar-all-items.txt",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dist/live/data-report.log",
+		"/C/Users/feder/AppData/Local/Temp/Temp1_evoting-files.zip/report.json",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dist/live/star_rating/reports/report.json",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dist/live/csv2json.py",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dist/live/starrating.py",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dist/live/readreport.py",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dev/live/unique_codes.py",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dev/live/star_rating/reports/report.json",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/ftest/csv2json.py",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/ftest/starrating.py",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/ftest/readreport.py",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dev/live/readreport.py",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/.gitignore",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dev/live/reportfast.py",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dev/live/starrating.py",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dev/live/csv2json.py",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dev/live/export.json",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/slido.bb19.cheatsheet.txt",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dev/live/star_rating/valid.json",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dev/live/export.csv",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dev/live/firefox.cheatsheet.txt",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dev/live/data-report.log",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/.git/COMMIT_EDITMSG",
+		"/C/Users/feder/OneDrive/Lavoro/CPSU/BoldBrain/dev/live/star_rating/invalid.json"
+	],
+	"find":
+	{
+		"height": 44.8
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"u",
+				"C:\\Users\\feder\\OneDrive\\Lavoro\\CPSU\\BoldBrain\\dev\\live\\unique_codes.py"
+			],
+			[
+				"star",
+				"C:\\Users\\feder\\OneDrive\\Lavoro\\CPSU\\BoldBrain\\dev\\live\\starrating.py"
+			],
+			[
+				"sta",
+				"C:\\Users\\feder\\OneDrive\\Lavoro\\CPSU\\BoldBrain\\dev\\live\\starrating.py"
+			],
+			[
+				"s",
+				"C:\\Users\\feder\\OneDrive\\Lavoro\\CPSU\\BoldBrain\\dev\\live\\starrating.py"
+			],
+			[
+				"",
+				"C:\\Users\\feder\\OneDrive\\Lavoro\\CPSU\\BoldBrain\\dev\\live\\unique_codes.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 407.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
