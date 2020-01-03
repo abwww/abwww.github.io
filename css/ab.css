@@ -44,6 +44,9 @@ hr.divider {
 #mainNav .navbar-nav .nav-item .nav-link {
   color: #f9f9f9;
 }
+#mainNav .show .navbar-nav .nav-item .nav-link {
+  color: #212529;
+}
 .nav-link.active {
   color: #207EA4;
 }
@@ -66,6 +69,29 @@ hr.divider {
 
 #contact .fas {
   color: #808080;
+}
+
+/*
+* Dimensions
+*/
+#mainNav .navbar-brand {
+  position: relative;
+  height: 100px;
+}
+#brand-logo  {
+  height: 90px;
+}
+#mainNav .container {
+}
+@media (max-width: 600px) {
+  #mainNav .navbar-brand {
+    max-height: 70px;
+    margin-left: 43%;
+    padding-top: 0px;
+  }
+  #brand-logo  {
+    height: 80px;
+  }
 }
 
 /*
