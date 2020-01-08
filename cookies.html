@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155462219-1"></script>
+  <script src="js/tracking.js"></script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>Alessia Baldon - Cookies</title>
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+
+
+  <!-- Font Awesome Icons -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  
+  <link href="css/fonts/fonts.css" rel="stylesheet">
+
+  <!-- Plugin CSS -->
+  <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+  <link href="vendor/animate/animate.min.css" rel="stylesheet">
+
+  <link href="css/creative.min.css" rel="stylesheet">
+
+
+
+
+  <!-- additional CSS -->
+  <link href="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.6.1/css/bootstrap4-toggle.min.css" rel="stylesheet">
+  <link href="css/ab.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top mb-4" id="mainNav" style="background-color: white;">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top"><img class="brand-img" id="brand-logo" src="img/logos/ab_logo_notext.svg"></a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto my-2 my-lg-0">
+          <!-- <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+          </li> -->
+          <li class="nav-item">
+            <a class="nav-link" style="color: black;" href="index.html">Home</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- About Section -->
+  <section class="page-section bg-primary" id="about">
+    <div class="container pt-4">
+      <div class="row justify-content-center pt-4 ">
+        <div class="col-lg-8 text-center pt-4">
+          <h1 class="text-white mt-0"><i class="fas fa-cookie-bite"></i></h1>
+          <hr class="divider light my-4">
+          <p class="text-white-50 mb-4">Nulla di pericoloso o intrusivo, raccolgo solo dati anonimi per poter controllare il traffico sul mio sito! Se la cosa ti infastidisce puoi disabilitare il tracciamento.</p>
+          <input id="tracking-checkbox" type="checkbox" checked data-toggle="toggle" data-onstyle="success">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- In-Depth Section -->
+  <section class="page-section fade-alternate">
+    <div class="container">
+      
+      <article class="row" id="tecnici">
+        <h3 class="my-4">
+          Cookie tecnici (non richiedono consenso ai sensi della vigente normativa)
+        </h3>
+        <p>
+          I cookie di Google analytics sono utilizzati sul sito per finalità esclusivamente tecniche. Per l’informativa estesa di Google siete invitati a fare riferimento alla <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage">documentazione ufficiale</a>.
+        </p>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- Call to Action Section -->
+  <section class="page-section bg-dark text-white">
+    <div class="container text-center">
+      <a class="btn btn-light btn-xl" href="index.html">Torna alla Home</a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-light py-2">
+    <div class="container">
+      <div class="small text-center text-muted">Designed & realized by Federico Fogo</div>
+    </div>
+  </footer>
+
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+  <script src="vendor/jquery.waypoints.min.js"></script>
+  <script src="js/creative.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.6.1/js/bootstrap4-toggle.min.js"></script>
+
+
+  <script src="js/ab.js"></script>
+  <script src="js/cookies-consent.js"></script>
+  <script>
+    $(function() {
+      $('#tracking-checkbox').change(function() {
+        if ($(this).prop('checked')) {
+          optIn();
+        } else {
+          optOut();
+        }
+      })
+    })
+  </script>
+</body>
+
+</html>

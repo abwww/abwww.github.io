@@ -1,4 +1,7 @@
-// new WOW().init();
+// init tooltips
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+});
 
 // total spins in 100% height
 var spins = 2.5;
@@ -12,14 +15,14 @@ $( window ).scroll(function(event){
 
 $(document).ready(function(){
   
-  let $services = $("#services .container>article"),
+  let $fade_alternate = $(".fade-alternate .container>article"),
       offset = "85%";
 
   // hide elements on page load
-  $services.css('opacity', 0);
+  $fade_alternate.css('opacity', 0);
   
   // bind listeners for scroll
-  $services.each(function(){
+  $fade_alternate.each(function(){
     let $t = $(this);
     if ($t.hasClass("flex-row-reverse")){
       $t.waypoint(function() 
