@@ -35,6 +35,10 @@ hr.divider {
   background-color: #808080 !important;
 }
 
+.bg-dark-soft {
+  background-color: rgba(125,125,125,.60);
+}
+
 .btn-primary {
   background-color: #207EA4;
   border-color: #207EA4;
