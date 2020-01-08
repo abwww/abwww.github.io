@@ -62,7 +62,7 @@
           <h1 class="text-white mt-0"><i class="fas fa-cookie-bite"></i></h1>
           <hr class="divider light my-4">
           <p class="text-white-50 mb-4">Nulla di pericoloso o intrusivo, raccolgo solo dati anonimi per poter controllare il traffico sul mio sito! Se la cosa ti infastidisce puoi disabilitare il tracciamento.</p>
-          <input id="tracking-checkbox" type="checkbox" checked data-toggle="toggle" data-onstyle="success">
+          <input id="tracking-checkbox" type="checkbox" data-toggle="toggle" data-onstyle="success">
         </div>
       </div>
     </div>
@@ -112,6 +112,7 @@
   <script src="js/cookies-consent.js"></script>
   <script>
     $(function() {
+      if (typeof hasOptedIn !== 'undefined' && hasOptedIn()) { $("#tracking-checkbox").bootstrapToggle('on'); }
       $('#tracking-checkbox').change(function() {
         if ($(this).prop('checked')) {
           optIn();
