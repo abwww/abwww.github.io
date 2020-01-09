@@ -275,6 +275,14 @@ header.masthead-chi-sono {
   background-size: cover;
 }
 
+/* iphone get crazy with fixed background so...*/
+@media only screen and (max-width: 800px)
+{
+  header.masthead {
+    background-attachment: scroll;
+  }
+}
+
 .scaling-image {
   width: 100%;
   display: inline-block; }
