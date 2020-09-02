@@ -16,6 +16,10 @@
     #808080
 */
 
+.underline {
+  text-decoration: underline !important;
+}
+
 .cookies-alert {
   opacity: .85;
 }
